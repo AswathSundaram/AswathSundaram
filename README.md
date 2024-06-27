@@ -98,6 +98,8 @@ Tech-savvy with a sharp business acumen and a passion for turning insights into 
 
 ![Aswath's stats](https://github-readme-stats.vercel.app/api?username=AswathSundaram&show_icons=true&count_private=true&hide=stars)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswathSundaram&langs_count=8)
+
 
 
 ![](https://komarev.com/ghpvc/?username=AswathSundaram&color=blueviolet)
